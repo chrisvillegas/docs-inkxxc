@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-6utiu5.thecuriouscanvas.com/sitemap.xml
